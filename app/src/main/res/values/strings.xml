@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DAM_UC3_TerrryMarcani</string>
+    <string name="textName" />
+    <string name="viewName" >Nombre:</string>
+    <string name="viewApellido">Apellido:</string>
+    <string name="viewEmail" />
+</resources>
